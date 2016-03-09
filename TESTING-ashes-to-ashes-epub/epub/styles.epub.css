@@ -1,0 +1,153 @@
+@font-face {
+    font-family: "HKGrotesk-Regular";
+    font-style: normal;
+    font-weight: normal;
+    src:url("hkgrotesk_regular.ttf");
+}
+
+@font-face {
+    font-family: "HKGrotesk-Bold";
+    font-style: normal;
+    font-weight: bold;
+    src:url("hkgrotesk_bold.ttf");
+}
+
+body{
+    background: white;
+    color: black;
+    font-family: "HKGrotesk-Regular", sans-serif;
+}
+
+p {
+text-indent: 50px;
+width: 80%;
+    margin-left:25px;
+    padding: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+
+}
+
+h1 {
+    /* DAYS + TITLES */
+    font-size:70px;
+    font-weight: 600 !important;
+        width: 70%;
+            padding-top: 1em;
+            padding-bottom: 1em;
+            padding-left: 25px;
+            margin-bottom: 0px;
+    
+
+}
+
+.h1date {
+    font-weight: 300 !important;
+}
+
+h3 {
+    /* PARAGRAPHS (the game / speakers) */
+    font-weight: 600 !important;
+    text-align: right;
+    position: relative;
+            padding-bottom: 3em;
+            margin:0;
+            padding-right: 1%;
+}
+
+h4 {
+   /* TITLE SPEAKERS*/
+    font-weight: 300 !important;
+    font-size: 50px;  
+    font-style: italic;
+    line-height: 55px;
+        width: 60%;
+            padding-left: 25px;
+            padding-top: 0.5em;
+            margin: 0px;
+}
+
+
+h6 {
+    /* NAMES SPEAKERS*/
+    font-weight: 300 !important; 
+    font-size: 20px;  
+        padding-bottom: 3em;
+        padding-left: 70px;
+        margin: 0px;
+
+}
+
+h5 {
+    /* subparagraphs in chapter: Practice Epub */
+    text-align: right;
+    position: relative;
+        padding-right: 20%;
+}
+
+
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "HKGrotesk-Regular", monospace;
+    hyphens: none !important;
+    -moz-hyphens: none !important;
+    -webkit-hyphens: none !important;
+    adobe-hyphenate: none !important;
+    margin-left: 0;
+    margin-right: 0;
+/*    margin-top: 0.5em;*/
+/*    margin-bottom: 0.5em;*/
+}
+
+.quote {
+
+}
+
+figcaption {
+    font-size: 15px;
+    position: relative;
+    text-align: right;
+    padding-right: 10%;
+}
+
+
+
+
+
+#introduction {
+ left:-50px;
+}
+
+#thegame {
+ left:-40px;
+}
+
+#speakers {
+ left:-35px;
+}
+
+.pagebreak {
+    page-break-before:always;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
+
+
+div#cover-image{
+    text-align:center;
+}
+
+a.footnoteRef{
+    vertical-align: super;
+    line-height: normal;
+    font-size: 0.5em;
+}
+
+img {
+    max-width: 98%;
+    max-height: 98%;
+    width: auto;
+    height: auto;
+}

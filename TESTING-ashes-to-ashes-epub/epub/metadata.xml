@@ -1,0 +1,30 @@
+<dc:identifier id="epub-id-1">urn:isbn:NNN-NN-NN-NN-n</dc:identifier>
+<meta refines="#epub-id-1" property="identifier-type" scheme="onix:codelist5">01</meta>
+<dc:title id="epub-title-1">Ashes to Ashes</dc:title>
+<meta refines="#epub-title-1" property="title-type">main</meta>
+<dc:publisher>Piet Zwart Institute Rotterdam</dc:publisher>
+<dc:date id="epub-date">2016-02</dc:date>
+<dc:language>en-GB</dc:language>
+<dc:creator id="epub-creator-0">Joint 1 — 2015/2017</dc:creator>
+<meta refines="#epub-creator-0" property="role" scheme="marc:relators">aut</meta>
+<dc:contributor id="epub-contributor-1">EDITOR'S NAME? Uhuh</dc:contributor>
+<meta refines="#epub-contributor-1" property="role" scheme="marc:relators">edt</meta>
+<dc:contributor id="epub-contributor-5">DESIGNER'S NAME</dc:contributor>
+<meta refines="#epub-contributor-5" property="role" scheme="marc:relators">dsr</meta>
+<dc:rights>Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International (CC-BY-NC-SA 4.0)</dc:rights>
+<dc:subject>MAKING-IT-PUBLIC, making-an-epub, publishing, archive, translation, transmediation, distorition, projects-viewed-by-students, I-can-make-up-so-many-tags, I-ll-need-to-get-back-to-this-one,</dc:subject>
+<dc:description>The thematic workshop looked at modes of public distribution and the
+difficulties faced in shifting private sources of knowledge into the
+public terrain.The prospect of knowledge sharing within the public
+sphere presents the idealistic model of free education, open culture and
+equality of opinions.The term “private” entails the right to express
+one’s subjective opinion and upholds the validity of one’s own voice and
+interpretation. As a consequence of the attempt to move the “private”
+into the public sphere, the original intention becomes impinged through
+the process of distribution. The nature of publicising content involves
+acts of distortion, corruption of intent, curatorial and editorial
+censorship and filtration. In order to present a coherent order of
+discourse from the multiplicity of sources to promote apparent
+“objectivity”, it becomes necessary to undergo selection, exclusion and
+inclusion.</dc:description>
